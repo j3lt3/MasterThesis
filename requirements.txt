@@ -1,0 +1,14 @@
+ollama
+langchain
+langchain-community
+langchain-chroma
+sentence-transformers
+torch
+transformers
+presidio-analyzer
+presidio-anonymizer
+scikit-learn
+numpy
+joblib
+matplotlib
+tqdm
