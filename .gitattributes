@@ -1,0 +1,5 @@
+vectorstore/chroma.sqlite3 filter=lfs diff=lfs merge=lfs -text
+vectorstore/poisoned-vectorstore/chroma.sqlite3 filter=lfs diff=lfs merge=lfs -text
+rag/lib/python3.12/site-packages/onnxruntime/capi/onnxruntime_pybind11_state.so filter=lfs diff=lfs merge=lfs -text
+rag/lib/python3.12/site-packages/en_core_web_lg/en_core_web_lg-3.7.1/vocab/vectors filter=lfs diff=lfs merge=lfs -text
+rag/lib/python3.12/site-packages/torch/lib/libtorch_cpu.dylib filter=lfs diff=lfs merge=lfs -text
